@@ -1,0 +1,4 @@
+c:\users\ely\documents\visual studio 2010\Projects\Cambio-Hora\Cambio-Hora\bin\Debug\Cambio-Hora.exe
+c:\users\ely\documents\visual studio 2010\Projects\Cambio-Hora\Cambio-Hora\bin\Debug\Cambio-Hora.pdb
+c:\users\ely\documents\visual studio 2010\Projects\Cambio-Hora\Cambio-Hora\obj\x86\Debug\Cambio-Hora.exe
+c:\users\ely\documents\visual studio 2010\Projects\Cambio-Hora\Cambio-Hora\obj\x86\Debug\Cambio-Hora.pdb
